@@ -1,0 +1,14 @@
+---
+title: Test post
+author: KS
+date: '2019-03-05'
+slug: test-post
+categories:
+  - R
+tags:
+  - Test
+---
+```{r}
+plot(1:10)
+```
+
